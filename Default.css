@@ -1,0 +1,11 @@
+/*初始化*/
+*{
+  margin: 0;
+  padding: 0;
+}
+/*Body Settings*/
+body{
+  padding-top: 74px;
+  margin: 0;
+  background: #1a1a1a;
+}
